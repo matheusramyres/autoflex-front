@@ -1,0 +1,122 @@
+{
+    "totalStock": 15877,
+    "totalMaterials": 23,
+    "stockLow": 4,
+    "items": [
+        {
+            "id": 2,
+            "name": "Monitor",
+            "stockQuantity": 20
+        },
+        {
+            "id": 4,
+            "name": "Copper",
+            "stockQuantity": 600
+        },
+        {
+            "id": 6,
+            "name": "Glass",
+            "stockQuantity": 500
+        },
+        {
+            "id": 7,
+            "name": "Wood",
+            "stockQuantity": 900
+        },
+        {
+            "id": 8,
+            "name": "Fabric",
+            "stockQuantity": 2000
+        },
+        {
+            "id": 9,
+            "name": "Leather",
+            "stockQuantity": 700
+        },
+        {
+            "id": 10,
+            "name": "Foam",
+            "stockQuantity": 1100
+        },
+        {
+            "id": 11,
+            "name": "Ink",
+            "stockQuantity": 400
+        },
+        {
+            "id": 12,
+            "name": "Paper",
+            "stockQuantity": 3000
+        },
+        {
+            "id": 13,
+            "name": "Chemical A",
+            "stockQuantity": 650
+        },
+        {
+            "id": 14,
+            "name": "Chemical B",
+            "stockQuantity": 450
+        },
+        {
+            "id": 15,
+            "name": "Resin",
+            "stockQuantity": 950
+        },
+        {
+            "id": 16,
+            "name": "Oil",
+            "stockQuantity": 2000
+        },
+        {
+            "id": 17,
+            "name": "Silicon",
+            "stockQuantity": 350
+        },
+        {
+            "id": 18,
+            "name": "Wire",
+            "stockQuantity": 1800
+        },
+        {
+            "id": 1,
+            "name": "Teclado",
+            "stockQuantity": 130
+        },
+        {
+            "id": 51,
+            "name": "NOVOO",
+            "stockQuantity": 1
+        },
+        {
+            "id": 101,
+            "name": "Copper",
+            "stockQuantity": 30
+        },
+        {
+            "id": 102,
+            "name": "Steel",
+            "stockQuantity": 100
+        },
+        {
+            "id": 103,
+            "name": "Iron",
+            "stockQuantity": 50
+        },
+        {
+            "id": 151,
+            "name": "Steel",
+            "stockQuantity": 100
+        },
+        {
+            "id": 201,
+            "name": "Novo material 22",
+            "stockQuantity": 34
+        },
+        {
+            "id": 3,
+            "name": "Aluminum",
+            "stockQuantity": 12
+        }
+    ]
+}

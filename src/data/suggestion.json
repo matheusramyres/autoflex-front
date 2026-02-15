@@ -1,0 +1,30 @@
+[
+    {
+        "productId": 2,
+        "productName": "Notebook Lenovo",
+        "quantity": 20,
+        "unitPrice": 13500.00,
+        "totalValue": 270000.00
+    },
+    {
+        "productId": 10,
+        "productName": "Produto 10",
+        "quantity": 13,
+        "unitPrice": 35.90,
+        "totalValue": 466.70
+    },
+    {
+        "productId": 6,
+        "productName": "Produto 6",
+        "quantity": 166,
+        "unitPrice": 22.30,
+        "totalValue": 3701.80
+    },
+    {
+        "productId": 7,
+        "productName": "Produto 7",
+        "quantity": 666,
+        "unitPrice": 18.75,
+        "totalValue": 12487.50
+    }
+]

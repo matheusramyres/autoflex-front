@@ -1,0 +1,10 @@
+{
+    "totalProductionValue": 249135.0,
+    "activeProducts": 96,
+    "materialUtilization": 87.3,
+    "variation": {
+        "productionValue": 12.5,
+        "activeProducts": 8,
+        "materialUtilization": -2.1
+    }
+}

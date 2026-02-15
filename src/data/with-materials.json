@@ -1,0 +1,734 @@
+[
+    {
+        "id": 5,
+        "name": "Produto 5",
+        "price": 15.00,
+        "rawMaterialQuantity": 12,
+        "materials": [
+            {
+                "productRawMaterialId": 151,
+                "rawMaterialId": 1,
+                "name": "Teclado",
+                "requiredQty": 12
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Produto 6",
+        "price": 22.30,
+        "rawMaterialQuantity": 5,
+        "materials": [
+            {
+                "productRawMaterialId": 11,
+                "rawMaterialId": 6,
+                "name": "Glass",
+                "requiredQty": 3
+            },
+            {
+                "productRawMaterialId": 12,
+                "rawMaterialId": 7,
+                "name": "Wood",
+                "requiredQty": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Produto 7",
+        "price": 18.75,
+        "rawMaterialQuantity": 3,
+        "materials": [
+            {
+                "productRawMaterialId": 14,
+                "rawMaterialId": 8,
+                "name": "Fabric",
+                "requiredQty": 3
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Produto 10",
+        "price": 35.90,
+        "rawMaterialQuantity": 8,
+        "materials": [
+            {
+                "productRawMaterialId": 201,
+                "rawMaterialId": 1,
+                "name": "Teclado",
+                "requiredQty": 8
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Produto 15",
+        "price": 21.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 16,
+        "name": "Produto 16",
+        "price": 25.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 17,
+        "name": "Produto 17",
+        "price": 28.70,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 18,
+        "name": "Produto 18",
+        "price": 32.10,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 19,
+        "name": "Produto 19",
+        "price": 40.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 20,
+        "name": "Produto 20",
+        "price": 45.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 21,
+        "name": "Produto 21",
+        "price": 11.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 22,
+        "name": "Produto 22",
+        "price": 13.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 23,
+        "name": "Produto 23",
+        "price": 17.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 24,
+        "name": "Produto 24",
+        "price": 19.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 25,
+        "name": "Produto 25",
+        "price": 23.60,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 26,
+        "name": "Produto 26",
+        "price": 26.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 28,
+        "name": "Produto 28",
+        "price": 33.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 29,
+        "name": "Produto 29",
+        "price": 37.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 30,
+        "name": "Produto 30",
+        "price": 42.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 31,
+        "name": "Produto 31",
+        "price": 14.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 32,
+        "name": "Produto 32",
+        "price": 18.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 33,
+        "name": "Produto 33",
+        "price": 21.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 34,
+        "name": "Produto 34",
+        "price": 24.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 35,
+        "name": "Produto 35",
+        "price": 27.70,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 37,
+        "name": "Produto 37",
+        "price": 34.60,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 38,
+        "name": "Produto 38",
+        "price": 38.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 39,
+        "name": "Produto 39",
+        "price": 41.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 40,
+        "name": "Produto 40",
+        "price": 46.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 41,
+        "name": "Produto 41",
+        "price": 12.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 42,
+        "name": "Produto 42",
+        "price": 15.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 43,
+        "name": "Produto 43",
+        "price": 19.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 44,
+        "name": "Produto 44",
+        "price": 22.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 45,
+        "name": "Produto 45",
+        "price": 25.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 46,
+        "name": "Produto 46",
+        "price": 29.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 47,
+        "name": "Produto 47",
+        "price": 32.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 48,
+        "name": "Produto 48",
+        "price": 36.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 49,
+        "name": "Produto 49",
+        "price": 39.70,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 50,
+        "name": "Produto 50",
+        "price": 44.10,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 51,
+        "name": "Produto 51",
+        "price": 13.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 52,
+        "name": "Produto 52",
+        "price": 16.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 55,
+        "name": "Produto 55",
+        "price": 26.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 56,
+        "name": "Produto 56",
+        "price": 30.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 57,
+        "name": "Produto 57",
+        "price": 33.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 58,
+        "name": "Produto 58",
+        "price": 36.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 59,
+        "name": "Produto 59",
+        "price": 40.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 60,
+        "name": "Produto 60",
+        "price": 45.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 61,
+        "name": "Produto 61",
+        "price": 14.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 62,
+        "name": "Produto 62",
+        "price": 18.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 63,
+        "name": "Produto 63",
+        "price": 21.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 64,
+        "name": "Produto 64",
+        "price": 24.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 65,
+        "name": "Produto 65",
+        "price": 28.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 66,
+        "name": "Produto 66",
+        "price": 31.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 67,
+        "name": "Produto 67",
+        "price": 35.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 68,
+        "name": "Produto 68",
+        "price": 38.70,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 69,
+        "name": "Produto 69",
+        "price": 42.10,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 70,
+        "name": "Produto 70",
+        "price": 47.60,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 71,
+        "name": "Produto 71",
+        "price": 15.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 72,
+        "name": "Produto 72",
+        "price": 18.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 73,
+        "name": "Produto 73",
+        "price": 22.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 74,
+        "name": "Produto 74",
+        "price": 25.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 75,
+        "name": "Produto 75",
+        "price": 29.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 76,
+        "name": "Produto 76",
+        "price": 32.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 77,
+        "name": "Produto 77",
+        "price": 35.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 78,
+        "name": "Produto 78",
+        "price": 39.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 79,
+        "name": "Produto 79",
+        "price": 42.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 80,
+        "name": "Produto 80",
+        "price": 48.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 81,
+        "name": "Produto 81",
+        "price": 16.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 82,
+        "name": "Produto 82",
+        "price": 19.70,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 83,
+        "name": "Produto 83",
+        "price": 23.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 84,
+        "name": "Produto 84",
+        "price": 26.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 85,
+        "name": "Produto 85",
+        "price": 30.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 86,
+        "name": "Produto 86",
+        "price": 33.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 87,
+        "name": "Produto 87",
+        "price": 37.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 88,
+        "name": "Produto 88",
+        "price": 40.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 89,
+        "name": "Produto 89",
+        "price": 44.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 90,
+        "name": "Produto 90",
+        "price": 49.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 91,
+        "name": "Produto 91",
+        "price": 17.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 92,
+        "name": "Produto 92",
+        "price": 20.50,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 93,
+        "name": "Produto 93",
+        "price": 24.10,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 94,
+        "name": "Produto 94",
+        "price": 27.60,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 95,
+        "name": "Produto 95",
+        "price": 31.20,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 96,
+        "name": "Produto 96",
+        "price": 34.80,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 97,
+        "name": "Produto 97",
+        "price": 38.30,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 98,
+        "name": "Produto 98",
+        "price": 41.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 99,
+        "name": "Produto 99",
+        "price": 45.40,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 100,
+        "name": "Produto 100",
+        "price": 50.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 1,
+        "name": "Notebook Ausus2",
+        "price": 12500.00,
+        "rawMaterialQuantity": 2,
+        "materials": [
+            {
+                "productRawMaterialId": 1,
+                "rawMaterialId": 1,
+                "name": "Teclado",
+                "requiredQty": 1
+            },
+            {
+                "productRawMaterialId": 2,
+                "rawMaterialId": 2,
+                "name": "Monitor",
+                "requiredQty": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Produto 3",
+        "price": 12700.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 101,
+        "name": "Novo",
+        "price": 4.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 151,
+        "name": "Toast teste",
+        "price": 7.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 2,
+        "name": "Notebook Lenovo",
+        "price": 13500.00,
+        "rawMaterialQuantity": 2,
+        "materials": [
+            {
+                "productRawMaterialId": 3,
+                "rawMaterialId": 1,
+                "name": "Teclado",
+                "requiredQty": 1
+            },
+            {
+                "productRawMaterialId": 4,
+                "rawMaterialId": 2,
+                "name": "Monitor",
+                "requiredQty": 1
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Sonner",
+        "price": 3.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 153,
+        "name": "Teste Produtos",
+        "price": 15.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 201,
+        "name": "Testando novbo",
+        "price": 4.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 14,
+        "name": "Produto 14 quarkus",
+        "price": 19.90,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    },
+    {
+        "id": 251,
+        "name": "Novo produto",
+        "price": 2550.00,
+        "rawMaterialQuantity": 0,
+        "materials": []
+    }
+]
