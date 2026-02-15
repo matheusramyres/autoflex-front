@@ -1,5 +1,5 @@
 import type { ColumnDef } from '@tanstack/react-table';
-import type { ProductionSuggestion } from '../../types/production';
+import type { ProductionSuggestion } from '../../types/ProductionSuggestion';
 import { moneyFormatter } from '../../utils/formatters';
 
 export const columns: ColumnDef<ProductionSuggestion>[] = [

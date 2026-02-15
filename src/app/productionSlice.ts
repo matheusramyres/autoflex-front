@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import { fetchProductionSuggestions } from '../services/productionService';
-import type { ProductionSuggestion } from '../types/production';
+import type { ProductionSuggestion } from '../types/ProductionSuggestion';
 
 interface ProductionState {
   result: ProductionSuggestion[] | null;
